@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.4.4",
-    "apollo-server-express": "^2.8.2",
+    "apollo-server-express": "^2.14.2",
     "await-to-js": "^2.1.1",
     "cors": "^2.8.5",
     "crypto": "^1.0.1",
